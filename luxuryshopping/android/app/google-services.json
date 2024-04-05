@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "558349386202",
+    "project_id": "luxuryshoppingapp",
+    "storage_bucket": "luxuryshoppingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558349386202:android:508e8f56aa7c11348b40e3",
+        "android_client_info": {
+          "package_name": "com.example.luxuryshopping"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl_Uo0pjkBec9hub8DBf1lBLyNJFgP7KE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
